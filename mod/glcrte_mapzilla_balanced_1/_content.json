@@ -1,0 +1,14 @@
+{
+    "archives": null,
+    "files": [
+        "climates/mapzilla_balanced/mapzilla_balanced_germany.gen.lua",
+        "climates/mapzilla_balanced/mapzilla_balanced_germany.tree.lua",
+        "climates/mapzilla_balanced/mapzilla_balanced_temperate.gen.lua",
+        "climates/mapzilla_balanced/mapzilla_balanced_temperate.tree.lua",
+        "mapzilla_balanced/coastal_fish.gs.lua",
+        "mapzilla_balanced/coastal_fish.script.tl",
+        "mapzilla_balanced/nodes.script.lua",
+        "mapzilla_balanced/river.node.lua",
+        "mapzilla_balanced/tex/layouts.tga"
+    ]
+}

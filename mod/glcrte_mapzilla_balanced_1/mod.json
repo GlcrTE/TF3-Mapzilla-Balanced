@@ -1,0 +1,22 @@
+{
+    "autoActivate": false,
+    "cosmetic": false,
+    "dependencies": null,
+    "incompatibilities": null,
+    "modId": "glcrte_mapzilla_balanced_1",
+    "options": null,
+    "params": null,
+    "postRunScript": {
+        "fileName": ""
+    },
+    "preRunScript": {
+        "fileName": ""
+    },
+    "revision": 1,
+    "runScript": {
+        "fileName": ""
+    },
+    "severityAdd": "None",
+    "severityRemove": "None",
+    "visible": true
+}

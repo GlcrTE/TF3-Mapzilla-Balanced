@@ -1,0 +1,15 @@
+{
+    "authors": [
+        {
+            "name": "GlcrTE",
+            "role": "CREATOR"
+        }
+    ],
+    "description": "A map generator based on Mapzilla by Bram Fokke (MIT), with a more usable terrain split. In the original, the mountains and the sea together took up half the map or more, and the mountain range at the far end had no towns or industry. Here there are no mountains: the land drops from a strip of hills at the far end (about 22%) through rolling land with low hills (about 42%) to a flat coastal plain (about 26%) and the sea (about 10%). The rivers, the delta and the coast follow the new bands. Towns at the coast ask for fish more often than inland towns. All Mapzilla options (Layout, Coastline, Islands, Orientation) work as before. Pick \"Mapzilla Balanced - Mountains to delta\" in the new game map settings. A second generator, \"Mapzilla Balanced - Germany\", copies the terrain of Germany: a strip of Alps, the Alpine foreland, the hilly uplands, the North German Plain and the North Sea, with the rivers running north to the sea.",
+    "name": "Mapzilla Balanced",
+    "summary": "Mapzilla map generator without the dead mountain strip: hills, rolling land, a flat coastal plain and about 10% sea.",
+    "tags": [
+        "Map"
+    ],
+    "url": ""
+}
